@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Lucida Grande Regular";
+    src: url(fonts/lucidagrande.woff);
+}
+
+/* Rectangle 1: */
+.folio {
+border: 1px solid #979797;
+box-shadow: 2px 2px 1px 1px rgba(0,0,0,0.50), inset 0px 1px 3px 1px rgba(0,0,0,0.50);
+}
+
+
+/* sahil khoja: */
+.name {
+font-family: 'Lucida Grande Regular';
+font-weight: normal;
+font-size: 72px;
+color: #696969;
+line-height: 85px;
+margin: auto;
+}
+
+/* developer // designe: */
+.subtitle {
+font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+font-size: 30px;
+color: #696969;
+line-height: 35px;
+}
+
+/* Triangle 1: */
+.rightTriangle {
+transform: rotate(-90deg);
+border: 1px solid #979797;
+box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.50), inset 0px 1px 1px 0px rgba(0,0,0,0.50);
+}
+
+/* Triangle 2: */
+.leftTriangle {
+transform: rotate(-90deg);
+border: 1px solid #979797;
+box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.50), inset 0px 1px 1px 0px rgba(0,0,0,0.50);
+}
+
+/* Mail: */
+/* Facebook: */
+/* Twitter: */
+/* Github: */
