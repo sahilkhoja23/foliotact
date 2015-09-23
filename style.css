@@ -18,6 +18,9 @@ font-size: 72px;
 color: #696969;
 line-height: 85px;
 margin: auto;
+position: center;
+text-align: center;
+padding-top: 1em;
 }
 
 /* developer // designe: */
